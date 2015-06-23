@@ -14,7 +14,7 @@ Encode to Hex -> http://www.convertstring.com/es/EncodeDecode/HexEncode
 Manage Cookies in Mozilla Firefox -> https://addons.mozilla.org/es/firefox/addon/cookies-manager-plus/
 
 #Video Demo
-Here the video -> 
+Here the video -> ss
 
 #About
 Contact: SixP4ck3r@gmail.com
